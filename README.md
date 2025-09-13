@@ -56,7 +56,7 @@
 ## 🚀 Projects  
 
 - [Restaurant Admin (Angular 17)](https://github.com/XxArDy/restoflow) – Admin panel for managing restaurant menu, tables, and orders  
-- [Portfolio Website] – Coming soon!  
+- [Portfolio Website](https://xxardy.github.io/portfolio/) - My portfolio website
 
 ---
 
