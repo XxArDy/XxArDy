@@ -55,8 +55,21 @@
 
 ## 🚀 Projects  
 
+- [Pathloom](https://github.com/XxArDy/Pathloom) – Whiteboard + roadmap for projects built with AI agents: stage cards, tasks and dependencies stored as plain files, with a CLI and an MCP server for agents (Tauri, Rust, TypeScript)  
 - [Restaurant Admin (Angular 17)](https://github.com/XxArDy/restoflow) – Admin panel for managing restaurant menu, tables, and orders  
 - [Portfolio Website](https://xxardy.github.io/portfolio/) - My portfolio website
+
+---
+
+## 💛 Support my work  
+
+If my projects help you, you can support them with **USDT on TRON (TRC20)**:  
+
+```text
+TReYVcTGY9PRW9XCSFj95JJwJ6BSxsP74W
+```
+
+This is the only address I use for donations — the same one is in the [Pathloom README](https://github.com/XxArDy/Pathloom#support-the-project). Send only USDT via TRC20.  
 
 ---
 
