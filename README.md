@@ -63,7 +63,7 @@
 
 ## 💛 Support my work  
 
-If my projects help you, you can support them in crypto.  
+If my projects help you, you can support them on [Patreon](https://www.patreon.com/XxArDy) or in crypto.  
 
 **USDT on TRON (TRC20)**:  
 
