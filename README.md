@@ -63,13 +63,21 @@
 
 ## 💛 Support my work  
 
-If my projects help you, you can support them with **USDT on TRON (TRC20)**:  
+If my projects help you, you can support them in crypto.  
+
+**USDT on TRON (TRC20)**:  
 
 ```text
 TReYVcTGY9PRW9XCSFj95JJwJ6BSxsP74W
 ```
 
-This is the only address I use for donations — the same one is in the [Pathloom README](https://github.com/XxArDy/Pathloom#support-the-project). Send only USDT via TRC20.  
+**Monero (XMR)**:  
+
+```text
+4ADwo8HNhcCVxSjMRzau7j3PnyF5TzMd2aBaLKJTNkqa9CRLGh9AjqALWepe5Twoe3EVypeP2euBtUVxoJgpsQtBNdjAwoJ
+```
+
+These are the only addresses I use for donations. The same ones are in the [Pathloom README](https://github.com/XxArDy/Pathloom#support-the-project). Send only USDT via TRC20 to the first and only XMR to the second.  
 
 ---
 
